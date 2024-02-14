@@ -13,4 +13,5 @@ This is a simple language translator web application built using pure HTML, CSS,
 - Supports a wide range of languages, enabling users to translate to and from different language pairs.
 - Minimalistic and lightweight, ensuring fast loading times and smooth performance.
 
+## Live Demo : https://akshar-wheat.vercel.app/
 
